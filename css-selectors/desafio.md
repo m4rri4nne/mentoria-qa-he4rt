@@ -1,5 +1,10 @@
 # Desafio 01 — CSS Selectors na Prática
 
+[![Dificuldade](https://img.shields.io/badge/Dificuldade-Iniciante-brightgreen?style=for-the-badge)]()
+[![Tema](https://img.shields.io/badge/Tema-CSS%20Selectors-blueviolet?style=for-the-badge)]()
+
+> **Por que "Iniciante":** o foco aqui é praticar a sintaxe e o raciocínio de localização de elementos, sem decisões estratégicas envolvidas. É o ponto de partida antes de desafios que exigem julgamento mais sênior, como o de [estratégia de testes](../tipos-de-teste/desafio.md).
+
 ## Objetivo
 
 Colocar em prática o conhecimento sobre CSS Selectors localizando elementos reais em um site público, sem depender de `data-testid` ou atributos criados especificamente para testes.
