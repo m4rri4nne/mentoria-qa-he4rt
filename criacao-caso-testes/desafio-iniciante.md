@@ -3,7 +3,7 @@
 [![Dificuldade](https://img.shields.io/badge/Dificuldade-Iniciante-brightgreen?style=for-the-badge)]()
 [![Tema](https://img.shields.io/badge/Tema-Casos%20de%20Teste-blueviolet?style=for-the-badge)]()
 
-> **Pré-requisito:** leia [`test-case-creation.md`](./test-case-creation.md) antes de começar — em especial a seção 1 (formato Step-by-Step) e as técnicas de Particionamento de Equivalência e Valor Limite.
+> **Pré-requisito:** leia [`criacao-caso-teste.md`](./criacao-caso-teste.md) antes de começar — em especial a seção 1 (formato Step-by-Step) e as técnicas de Particionamento de Equivalência e Valor Limite.
 >
 > **Por que "Iniciante":** o foco aqui é praticar a escrita clara, completa e reprodutível de um caso de teste — sem ainda precisar decidir qual formato usar ou negociar trade-offs. É o ponto de partida antes do desafio que exige julgamento sobre formato e técnica, o [Desafio 04](./desafio-avancado.md).
 
