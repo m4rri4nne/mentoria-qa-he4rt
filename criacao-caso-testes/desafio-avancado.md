@@ -3,7 +3,7 @@
 [![Dificuldade](https://img.shields.io/badge/Dificuldade-Avançada-red?style=for-the-badge)]()
 [![Tema](https://img.shields.io/badge/Tema-Casos%20de%20Teste-blueviolet?style=for-the-badge)]()
 
-> **Pré-requisito:** leia [`test-case-creation.md`](./test-case-creation.md) por completo. Se possível, revise sua entrega do [Desafio 02 — Estratégia de Testes do MedAgenda](../tipos-de-teste/desafio.md) — vamos trabalhar no mesmo produto fictício.
+> **Pré-requisito:** leia [`criacao-caso-teste.md`](./criacao-caso-teste.md) por completo. Se possível, revise sua entrega do [Desafio 02 — Estratégia de Testes do MedAgenda](../tipos-de-teste/desafio.md) — vamos trabalhar no mesmo produto fictício.
 >
 > **Por que "Avançada":** aqui você não recebe o formato pronto. Você decide se cada cenário deve ser escrito em BDD ou Step-by-Step, justifica essa escolha, e aplica técnicas de design para encontrar casos que a regra de negócio, lida superficialmente, não deixa óbvios. É o tipo de julgamento que separa quem "escreve caso de teste porque pediram" de quem **desenha** a cobertura de teste de uma funcionalidade.
 
